@@ -2,11 +2,11 @@
 NIHPA (Nuclear Integrated Hydorgen Production Analysis) is an Excel-based discount cash flow calculator for hydrogen production by integrating light water reactors with high temperature steam electrolysis (LWR-HTSE) or low temperature electrolysis (LWR-LTE).  
  
 The tool incorporates the following features
-(1) discounted cash flow and levelized cost of hydrogen (LCOH) analysis, 
-(2) sensitivity analysis with respect to select financial performance metrics with output ‘tornado’ charts, 
-(3) profitability analysis represented by heat maps using the two most sensitive parameters, 
-(4) electricity versus hydrogen production preference analysis by comparing change in net present value (∆NPV) between LWR-HTSE (or LWR-LTE) and business-as-usual electricity production to the grid, and 
-(5) competitiveness analysis by comparing the calculated LCOH for LWR-HTSE (or LWR-LTE) with that of steam methane reforming, which is the conventional process to produce hydrogen.
+-(1) discounted cash flow and levelized cost of hydrogen (LCOH) analysis, 
+-(2) sensitivity analysis with respect to select financial performance metrics with output ‘tornado’ charts, 
+-(3) profitability analysis represented by heat maps using the two most sensitive parameters, 
+-(4) electricity versus hydrogen production preference analysis by comparing change in net present value (∆NPV) between LWR-HTSE (or LWR-LTE) and business-as-usual electricity production to the grid, and 
+(-5) competitiveness analysis by comparing the calculated LCOH for LWR-HTSE (or LWR-LTE) with that of steam methane reforming, which is the conventional process to produce hydrogen.
 
 ## Usage Instruction
 
@@ -27,7 +27,7 @@ The following are a selection of technical reports, conference proceedings, and 
 (https://www.ans.org/meetings/pbnc2024/session/view-2730/)
 
 ### See More
-- [Light Water Reactor Sustainability Program](https://ies.inl.gov/SitePages/Home.aspx)
+- [Light Water Reactor Sustainability Program](https://lwrs.inl.gov/SitePages/Home.aspx)
 
 ## Citing NIHPA
 
