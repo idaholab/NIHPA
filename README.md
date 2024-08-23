@@ -24,8 +24,7 @@ The following are a selection of technical reports, conference proceedings, and 
 - [Wen-Chi Cheng, Todd Knighton,Levi Morin Larsen, Paul W Talbot, and Richard D Boardman, "Estimating the Value of Nuclear Integrated Hydrogen Production and the Dependency of Electricity and Hydrogen Markets on Natural Gas", INL/RPT-23-73909, 2023](https://www.osti.gov/biblio/2315033)
 
 ### Conference Proceedings
-- [Wen-Chi Cheng, Nahuel Guaita, Maria A. Herrera Diaz, Kathleen P. Sweeney, and L. Todd Knighton, "Technoeconomic Assessment of Nuclear Integrated Hydrogen Production in the U.S. Gulf Coast Region", Pacific Basin Nuclear Conference, Idaho Falls, ID, Oct. 7-10, 2024]
-(https://www.ans.org/meetings/pbnc2024/session/view-2730/)
+- [Wen-Chi Cheng, Nahuel Guaita, Maria A. Herrera Diaz, Kathleen P. Sweeney, and L. Todd Knighton, "Technoeconomic Assessment of Nuclear Integrated Hydrogen Production in the U.S. Gulf Coast Region", Pacific Basin Nuclear Conference, Idaho Falls, ID, Oct. 7-10, 2024](https://www.ans.org/meetings/pbnc2024/session/view-2730/)
 
 ### See More
 - [Light Water Reactor Sustainability Program](https://lwrs.inl.gov/SitePages/Home.aspx)
