@@ -3,11 +3,11 @@ NIHPA (Nuclear Integrated Hydorgen Production Analysis) is an Excel-based discou
  
 The tool incorporates the following features:
 
-- [Discounted cash flow and levelized cost of hydrogen (LCOH) analysis]
-- [Sensitivity analysis with respect to select financial performance metrics with output ‘tornado’ charts] 
-- [Profitability analysis represented by heat maps using the two most sensitive parameters] 
-- [Electricity versus hydrogen production preference analysis by comparing change in net present value (∆NPV) between LWR-HTSE (or LWR-LTE) and business-as-usual electricity production to the grid]
-- [Competitiveness analysis by comparing the calculated LCOH for LWR-HTSE (or LWR-LTE) with that of steam methane reforming, which is the conventional process to produce hydrogen]
+- Discounted cash flow and levelized cost of hydrogen (LCOH) analysis
+- Sensitivity analysis with respect to select financial performance metrics with output ‘tornado’ charts
+- Profitability analysis represented by heat maps using the two most sensitive parameters
+- Electricity versus hydrogen production preference analysis by comparing change in net present value (∆NPV) between LWR-HTSE (or LWR-LTE) and business-as-usual electricity production to the grid
+- Competitiveness analysis by comparing the calculated LCOH for LWR-HTSE (or LWR-LTE) with that of steam methane reforming, which is the conventional process to produce hydrogen
 
 ## Usage Instruction
 
