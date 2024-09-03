@@ -1,5 +1,8 @@
 ![NIHPA Logo](./logo/24-50764_NIHPA_R2.jpg)
-NIHPA (Nuclear Integrated Hydorgen Production Analysis) is an Excel-based discount cash flow calculator for hydrogen production by integrating light water reactors with high temperature steam electrolysis (LWR-HTSE) or low temperature electrolysis (LWR-LTE).  
+  
+NIHPA (Nuclear Integrated Hydorgen Production Analysis) is an Excel-based discount cash flow calculator 
+for hydrogen production by integrating light water reactors with high temperature steam electrolysis (LWR-HTSE) or 
+low temperature electrolysis (LWR-LTE).
  
 The tool incorporates the following features:
 
