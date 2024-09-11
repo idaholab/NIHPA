@@ -24,13 +24,15 @@ If you would like to contribute the development of NIHPA, please follow the inst
 The following are a selection of technical reports, conference proceedings, and journal articles that may be of interest to users and developers of HERON, loosely in order of work performed.
 
 ### Technical Report
+- [Daniel S. Wendt, Todd Knighton, and Richard D. Boardman, "High Temperature Steam Electrolysis Process Performance and Cost Estimates", INL/RPT-22-66117, 2022](https://www.osti.gov/biblio/1867883)
+
 - [Wen-Chi Cheng, Todd Knighton,Levi Morin Larsen, Paul W Talbot, and Richard D Boardman, "Estimating the Value of Nuclear Integrated Hydrogen Production and the Dependency of Electricity and Hydrogen Markets on Natural Gas", INL/RPT-23-73909, 2023](https://www.osti.gov/biblio/2315033)
 
-- [Maria A. Herrera Diaz, Todd Knighton, Wen-Chi Cheng, Kathleen P. Sweeney, Frederick C. Joseck, Jack Cadogan, Nahuel Guaita, and Richard D. Boardman, Adarsh P. Bafana, Neeraj C. Hanumante, and Amgad A. Elgowainy, "Hydrogen Generation and Industrial Heat Opportunities for Nuclear Plants in the Gulf Coast", INL/RPT-24-80189, 2024]
+- [Maria A. Herrera Diaz, Todd Knighton, Wen-Chi Cheng, Kathleen P. Sweeney, Frederick C. Joseck, Jack Cadogan, Nahuel Guaita, and Richard D. Boardman, Adarsh P. Bafana, Neeraj C. Hanumante, and Amgad A. Elgowainy, "Hydrogen Generation and Industrial Heat Opportunities for Nuclear Plants in the Gulf Coast", INL/RPT-24-80189, 2024](https://www.osti.gov/biblio/2439929)
 
-- [Eliezer A. Reyes Molina, Kathleen P. Sweeney, Sam J. Root, Nahuel Guaita, Wen-Chi Cheng, Frederick C. Joseck, L. Todd Knighton, and Richard D. Boardman, "Technical and Economic Assessment and Gap Analysis of Advanced Nuclear Reactor Integration with a Reference Oil Refinery", INL RPT-24-78634, 2024](https://www.osti.gov/biblio/2438486)
+- [Eliezer A. Reyes Molina, Kathleen P. Sweeney, Sam J. Root, Nahuel Guaita, Wen-Chi Cheng, Frederick C. Joseck, Todd Knighton, and Richard D. Boardman, "Technical and Economic Assessment and Gap Analysis of Advanced Nuclear Reactor Integration with a Reference Oil Refinery", INL RPT-24-78634, 2024](https://www.osti.gov/biblio/2438486)
 
-- [Eliezer A. Reyes Molina, Kathleen P. Sweeney, Sam J. Root, Nahuel Guaita, Wen-Chi Cheng, Frederick C. Joseck, L. Todd Knighton, and Richard D. Boardman, "Technical and Economic Assessment and Gap Analysis of Advanced Nuclear Reactor Integration with a Reference Methanol-Synthesis Plant", INL-RPT-24-79081, 2024](https://www.osti.gov/biblio/2438487)
+- [Eliezer A. Reyes Molina, Kathleen P. Sweeney, Sam J. Root, Nahuel Guaita, Wen-Chi Cheng, Frederick C. Joseck, Todd Knighton, and Richard D. Boardman, "Technical and Economic Assessment and Gap Analysis of Advanced Nuclear Reactor Integration with a Reference Methanol-Synthesis Plant", INL-RPT-24-79081, 2024](https://www.osti.gov/biblio/2438487)
 
 ### Conference Proceedings
 - [Wen-Chi Cheng, Nahuel Guaita, Maria A. Herrera Diaz, Kathleen P. Sweeney, and L. Todd Knighton, "Technoeconomic Assessment of Nuclear Integrated Hydrogen Production in the U.S. Gulf Coast Region", Pacific Basin Nuclear Conference, Idaho Falls, ID, Oct. 7-10, 2024](https://www.ans.org/meetings/pbnc2024/session/view-2730/)
