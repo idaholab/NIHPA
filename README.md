@@ -38,7 +38,7 @@ The following are a selection of technical reports, conference proceedings, and 
 - [Wen-Chi Cheng, Nahuel Guaita, Maria A. Herrera Diaz, Kathleen P. Sweeney, and L. Todd Knighton, "Technoeconomic Assessment of Nuclear Integrated Hydrogen Production in the U.S. Gulf Coast Region", Pacific Basin Nuclear Conference, Idaho Falls, ID, Oct. 7-10, 2024](https://www.ans.org/meetings/pbnc2024/session/view-2730/)
 
 ### See More
-- [Light Water Reactor Sustainability Program](https://lwrs.inl.gov/NIHPA/Home.aspx)
+- [Light Water Reactor Sustainability Program](https://lwrs.inl.gov/nihpa)
 
 ## Citing NIHPA
 
