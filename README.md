@@ -42,5 +42,5 @@ The following are a selection of technical reports, conference proceedings, and 
 
 ## Citing NIHPA
 
-	W.-C., Cheng, L. M. Larsen, T. L. Knighton, P. W. Talbot, D. S. Wendt, R. D. Boardman, “Nuclear Integrated Production Analysis (NIHPA) tool”, Computer software, https://github.com/idaholab/NIHPA
+	Please follow the citation format and the references here: https://www.osti.gov/biblio/2441247
 
