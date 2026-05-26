@@ -34,6 +34,9 @@ The following are a selection of technical reports, conference proceedings, and 
 
 - [Eliezer A. Reyes Molina, Kathleen P. Sweeney, Sam J. Root, Nahuel Guaita, Wen-Chi Cheng, Frederick C. Joseck, Todd Knighton, and Richard D. Boardman, "Technical and Economic Assessment and Gap Analysis of Advanced Nuclear Reactor Integration with a Reference Methanol-Synthesis Plant", INL-RPT-24-79081, 2024](https://www.osti.gov/biblio/2438487)
 
+- [W.-C. Cheng, M. A. H. Diaz, N. Guaita, K. Sweeny, N. Hanumante, A. Bafana, and T. Knighton, "Integrated techno-economic framework for nuclear hydrogen production: assessing the role of high temperature steam electrolysis and safety considerations," Sustainable Energy Technologies and Assessments, vol. 86, p. 104876, 2026.] (https://www.sciencedirect.com/science/article/pii/S2213138826000627)
+
+
 ### Conference Proceedings
 - [Wen-Chi Cheng, Nahuel Guaita, Maria A. Herrera Diaz, Kathleen P. Sweeney, and L. Todd Knighton, "Technoeconomic Assessment of Nuclear Integrated Hydrogen Production in the U.S. Gulf Coast Region", Pacific Basin Nuclear Conference, Idaho Falls, ID, Oct. 7-10, 2024](https://www.ans.org/meetings/pbnc2024/session/view-2730/)
 
