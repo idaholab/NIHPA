@@ -37,7 +37,7 @@ The following are a selection of technical reports, conference proceedings, and 
 ### Conference Proceedings
 - [Wen-Chi Cheng, Nahuel Guaita, Maria A. Herrera Diaz, Kathleen P. Sweeney, and Todd Knighton, "Technoeconomic Assessment of Nuclear Integrated Hydrogen Production in the U.S. Gulf Coast Region", Pacific Basin Nuclear Conference, Idaho Falls, ID, Oct. 7-10, 2024](https://www.ans.org/meetings/pbnc2024/session/view-2730/)
 
--[Wen-Chi Cheng, Nahuel Guaita, Maria Herrera Diaz, and Kathleen Sweeney. "Market informed Technoeconomic Assessment for Nuclear Integrated Hydrogen Production in US Gulf Coast." Transactions of the American Nuclear Society (2025)](https://www.ans.org/pubs/transactions/article-59868/)
+- [Wen-Chi Cheng, Nahuel Guaita, Maria Herrera Diaz, and Kathleen Sweeney. "Market informed Technoeconomic Assessment for Nuclear Integrated Hydrogen Production in US Gulf Coast." Transactions of the American Nuclear Society (2025)](https://www.ans.org/pubs/transactions/article-59868/)
 
 ### Journal Papers
 
